@@ -1,2 +1,2 @@
-# -n-cu-i-k-Software-Engineering-
+FinalProject_Software_Engineering
 Đồ án cuối kì!
